@@ -1,0 +1,247 @@
+.heading 
+{
+    height: 40px;
+    width: 100%;
+    background-color: black;
+}
+.heading > ul 
+{
+    margin-left: 100px;
+    padding-top: 10px;
+}
+.heading > ul > li 
+{
+    display: inline;
+    color: white;
+    margin-right: 30px;
+}
+.login 
+{
+    float: right;
+    margin-right: 100px;
+    margin-top: -30px;
+    color: white;
+}
+.banner > img 
+{
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.date
+{
+    margin-left: 100px;
+    color: gray;
+}
+.menu1
+{
+    margin-top: -40px;
+    float: right;
+}
+.menu1 > ul > li 
+{
+    display: inline;
+    margin-right: 20px;
+    color: gray;
+}
+.section
+{
+    margin-left: 100PX;
+    border: solid;
+    width: 100px;
+    padding: 5px;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: gray;
+    margin-top: 40px;
+}
+.logo
+{
+    margin-left: 500px;
+    margin-top: -25px;
+}
+.menu2
+{
+border-top: solid;
+}
+.menu2 > ul> li
+{
+    display: inline;
+    margin-right: 42px;
+    color:black;
+}
+.box1 
+{
+    width: 350px;
+    height: 120px;
+    padding: 10px;
+    background-color: aqua;
+    border-radius: 10px;
+}
+.box1 > h3
+{
+    font-size: small;
+    margin-left: 120px;
+    margin-top: -100px;
+}
+.box1 > img 
+{
+    border-radius: 5px;
+}
+.box2
+{
+    width: 350px;
+    height: 120px;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin-left: 380px;
+    margin-top: -140px;
+}
+.box2 > h3
+{
+    font-size: small;
+    margin-left: 120px;
+    margin-top: -100px;
+}
+.box2 > img
+{
+    border-radius: 5px;
+}
+.box3
+{
+    width: 350px;
+    height: 120px;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin-left: 760px;
+    margin-top: -140px;
+}
+.box3 > h3
+{
+    font-size: small;
+    margin-left: 120px;
+    margin-top: -100px;
+}
+.box3 > img
+{
+    border-radius: 5px;
+}
+.box4
+{
+    width: 350px;
+    height: 120px;
+    padding: 10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin-left: 1140px;
+    margin-top: -140px;
+}
+.box4 > h3
+{
+    font-size: small;
+    margin-left: 120px;
+    margin-top: -100px;
+}
+.box4 > img
+{
+    border-radius: 5px;
+    height: 100px;
+    width: 100px;
+}
+.news1
+{
+    width: 600px;
+    height: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 120px;  
+}
+.news1 > h3
+{
+    font-size: 25px;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.news1 > img
+{
+
+    width: 350xpx;
+    height: 350px;
+}
+.box5
+{
+    width: 450px;
+    height: 80px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-top: -130px;
+}
+.box5 > h3
+{
+    font-size: small;
+    margin-left: 120px;
+    margin-top: -50px;
+}
+.box5 > img
+{
+    border-radius: 1px;
+}
+.box6
+{
+    width: 450px;
+    height: 80px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-top: -30px;
+}
+.box6 > h3
+{
+    font-size: small;
+    margin-left: 120px;
+    margin-top: -50px;
+}
+.box6 > img
+{
+    border-radius: 1px;
+}
+.box7
+{
+    width: 450px;
+    height: 80px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 700px;
+    margin-top: -30px;
+}
+.box7 > h3
+{
+    font-size: small;
+    margin-left: 120px;
+    margin-top: -50px;
+}
+.box7 > img
+{
+    border-radius: 1px;
+}
+.img
+{
+    width: 450px;
+    height: 80px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 1200px;
+    margin-top: -250px;
+}
+.img > h3
+{
+    font-size: small;
+    margin-left: 120px;
+    margin-top: -50px;
+}
+.img > img
+{
+    border-radius: 1px;
+}
